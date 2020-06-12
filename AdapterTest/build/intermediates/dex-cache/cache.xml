@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidProject\AdapterTest\app\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.11\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0bdf70123d26dd83d8462d602b3a83a41934cf6">
+        <dex dex="E:\AndroidProject\AdapterTest\app\build\intermediates\pre-dexed\debug\in.srain.cube-ultra-ptr-1.0.11_e6c1c79d36a98822719f4a0265fdd08ae8b6068c.jar" />
+    </item>
+
+</items>

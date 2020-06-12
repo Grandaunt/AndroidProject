@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidProject\\Android-StickyNavLayout-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidProject\\Android-StickyNavLayout-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\Android-StickyNavLayout-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\icon_photo.png",
+        "source": "E:\\AndroidProject\\Android-StickyNavLayout-master\\app\\build\\intermediates\\exploded-aar\\com.zhy\\base-adapter\\2.0.0\\res\\mipmap-hdpi\\icon_photo.png"
+    }
+]
